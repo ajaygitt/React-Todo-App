@@ -1,0 +1,71 @@
+.todo{
+    align-items: center;
+    background-color: rgb(71, 255, 102);
+    padding-top: 0%;
+    border: 5px solid #FFFF00;
+    display: flex;
+    justify-content: center;
+ 
+    }
+    .inputField{
+        
+        padding-top: 30px;
+        height: 30px;
+        display: flex;
+        justify-content: center;
+       
+    }
+    .items{
+        background-color: #6200ff;
+       
+        font-size: 12px;
+        color: #FFFFFF;
+   
+        text-align: center;
+      
+    }
+    .button {
+  background-color: #4CAF50;
+       
+        font-size: 20px;
+        color: #FFFFFF;
+   
+        text-align: center;
+
+      }
+      
+    .button1{
+        
+        background-color: #ff0000;
+       
+        font-size: 20px;
+        color: #FFFFFF;
+   
+        text-align: center;
+    }
+    .list{
+       align-items: center;
+       text-align: center;
+    }
+
+    h2 {
+        font-size: 3em;
+        text-decoration: underline;
+      }
+      
+      ul {
+        font-size: 2em;
+        margin: none;
+        padding: none;
+      }
+      
+      li {
+        list-style: none;
+        height: 2em;
+      }
+      
+      li:hover {
+        font-size: 2em;
+        cursor: pointer;
+      }
+  
